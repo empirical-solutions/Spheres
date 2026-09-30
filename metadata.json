@@ -1,0 +1,6 @@
+{
+  "name": "The Mirror of Spheres — 360° Celestial Mirror Engine & 72 Decan Gates",
+  "description": "Cosmological framework traversing the 12 Zodiac Acts, 72 mirrored Shem HaMephorash Angel & Ars Goetia Demon decan gates, real-time procedural harmonic audio synthesizer, and Veo 3 video generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

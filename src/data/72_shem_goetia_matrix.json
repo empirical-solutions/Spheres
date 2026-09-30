@@ -1,0 +1,2954 @@
+[
+  {
+    "GateId": 1,
+    "ActNumber": 1,
+    "Sign": "Aries",
+    "Element": "Fire",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 0.0,
+      "EndDegree": 5.0,
+      "SignSpan": "0°–5° Aries",
+      "GlobalSpan": "0°–5°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 0.0,
+      "EndSeconds": 8.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:00",
+      "TimecodeEnd": "00:08"
+    },
+    "Angel": {
+      "Name": "Vehuiah",
+      "Hebrew": "והו",
+      "Choir": "Seraphim",
+      "Sphere": "Kether",
+      "FrequencyHz": 528,
+      "DivineAttribute": "God the Exalter",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Bael",
+      "GoetiaNumber": 1,
+      "Rank": "King",
+      "Legions": 66,
+      "Metal": "Gold",
+      "FrequencyHz": 40,
+      "ChthonicTitle": "First Lord of Chthonic Fire",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Vehuiah projects blinding celestial ignition, while Bael grounds it with deep chthonic embers.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 2,
+    "ActNumber": 1,
+    "Sign": "Aries",
+    "Element": "Fire",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 5.0,
+      "EndDegree": 10.0,
+      "SignSpan": "5°–10° Aries",
+      "GlobalSpan": "5°–10°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 8.33,
+      "EndSeconds": 16.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:08",
+      "TimecodeEnd": "00:16"
+    },
+    "Angel": {
+      "Name": "Jeliel",
+      "Hebrew": "ילי",
+      "Choir": "Seraphim",
+      "Sphere": "Kether",
+      "FrequencyHz": 540,
+      "DivineAttribute": "God the Succorer",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Agares",
+      "GoetiaNumber": 2,
+      "Rank": "Duke",
+      "Legions": 31,
+      "Metal": "Copper",
+      "FrequencyHz": 44,
+      "ChthonicTitle": "Voice of Trembling Earth",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Jeliel forms soaring thermal updrafts, neutralized by Agares's smoldering volcanic ash.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 3,
+    "ActNumber": 1,
+    "Sign": "Aries",
+    "Element": "Fire",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 10.0,
+      "EndDegree": 15.0,
+      "SignSpan": "10°–15° Aries",
+      "GlobalSpan": "10°–15°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 16.67,
+      "EndSeconds": 25.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:16",
+      "TimecodeEnd": "00:25"
+    },
+    "Angel": {
+      "Name": "Sitael",
+      "Hebrew": "סיט",
+      "Choir": "Seraphim",
+      "Sphere": "Kether",
+      "FrequencyHz": 552,
+      "DivineAttribute": "God the Hope of All Creatures",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Vassago",
+      "GoetiaNumber": 3,
+      "Rank": "Prince",
+      "Legions": 26,
+      "Metal": "Tin",
+      "FrequencyHz": 48,
+      "ChthonicTitle": "Discoverer of the Hidden",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Sitael weaves laser-like photon fire, met by Vassago’s creeping blue flame.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 4,
+    "ActNumber": 1,
+    "Sign": "Aries",
+    "Element": "Fire",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 15.0,
+      "EndDegree": 20.0,
+      "SignSpan": "15°–20° Aries",
+      "GlobalSpan": "15°–20°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 25.0,
+      "EndSeconds": 33.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:25",
+      "TimecodeEnd": "00:33"
+    },
+    "Angel": {
+      "Name": "Elemiah",
+      "Hebrew": "עלם",
+      "Choir": "Seraphim",
+      "Sphere": "Kether",
+      "FrequencyHz": 564,
+      "DivineAttribute": "Hidden God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Gamigin",
+      "GoetiaNumber": 4,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 52,
+      "ChthonicTitle": "Keeper of Souls in Ash",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Elemiah expands a protective corona of light, while Gamigin condenses it into concentrated burning rings.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 5,
+    "ActNumber": 1,
+    "Sign": "Aries",
+    "Element": "Fire",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 20.0,
+      "EndDegree": 25.0,
+      "SignSpan": "20°–25° Aries",
+      "GlobalSpan": "20°–25°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 33.33,
+      "EndSeconds": 41.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:33",
+      "TimecodeEnd": "00:41"
+    },
+    "Angel": {
+      "Name": "Mahasiah",
+      "Hebrew": "מהש",
+      "Choir": "Seraphim",
+      "Sphere": "Kether",
+      "FrequencyHz": 576,
+      "DivineAttribute": "God the Savior",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Marbas",
+      "GoetiaNumber": 5,
+      "Rank": "President",
+      "Legions": 36,
+      "Metal": "Mercury",
+      "FrequencyHz": 56,
+      "ChthonicTitle": "Artificer of Mechanical Flame",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mahasiah projects purifying golden heat, anchored by Marbas’s mechanical forge-fire.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 6,
+    "ActNumber": 1,
+    "Sign": "Aries",
+    "Element": "Fire",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 25.0,
+      "EndDegree": 30.0,
+      "SignSpan": "25°–30° Aries",
+      "GlobalSpan": "25°–30°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 41.67,
+      "EndSeconds": 50.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:41",
+      "TimecodeEnd": "00:50"
+    },
+    "Angel": {
+      "Name": "Lelahel",
+      "Hebrew": "ללה",
+      "Choir": "Seraphim",
+      "Sphere": "Kether",
+      "FrequencyHz": 588,
+      "DivineAttribute": "The Praiseworthy God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Valefor",
+      "GoetiaNumber": 6,
+      "Rank": "Duke",
+      "Legions": 10,
+      "Metal": "Copper",
+      "FrequencyHz": 60,
+      "ChthonicTitle": "The Cunning Phantom",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Lelahel’s radiant starlight weaves into Valefor’s eclipsing shadows, completing the fire circuit.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 7,
+    "ActNumber": 2,
+    "Sign": "Taurus",
+    "Element": "Earth",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 30.0,
+      "EndDegree": 35.0,
+      "SignSpan": "0°–5° Taurus",
+      "GlobalSpan": "30°–35°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 50.0,
+      "EndSeconds": 58.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:50",
+      "TimecodeEnd": "00:58"
+    },
+    "Angel": {
+      "Name": "Achaiah",
+      "Hebrew": "אכא",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 432,
+      "DivineAttribute": "God Good and Patient",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Amon",
+      "GoetiaNumber": 7,
+      "Rank": "Marquis",
+      "Legions": 40,
+      "Metal": "Silver",
+      "FrequencyHz": 55,
+      "ChthonicTitle": "Lord of Primeval Bedrock",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Achaiah cultivates patience within crystal lattice, countered by Amon’s eruptive stone fractures.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 8,
+    "ActNumber": 2,
+    "Sign": "Taurus",
+    "Element": "Earth",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 35.0,
+      "EndDegree": 40.0,
+      "SignSpan": "5°–10° Taurus",
+      "GlobalSpan": "35°–40°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 58.33,
+      "EndSeconds": 66.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "00:58",
+      "TimecodeEnd": "01:06"
+    },
+    "Angel": {
+      "Name": "Cahetel",
+      "Hebrew": "כהת",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 444,
+      "DivineAttribute": "Adorable God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Barbatos",
+      "GoetiaNumber": 8,
+      "Rank": "Duke",
+      "Legions": 30,
+      "Metal": "Copper",
+      "FrequencyHz": 65,
+      "ChthonicTitle": "Lord of the Wild Vaults",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Cahetel blesses agricultural fertility, interwoven with Barbatos’s underground subterranean secrets.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 9,
+    "ActNumber": 2,
+    "Sign": "Taurus",
+    "Element": "Earth",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 40.0,
+      "EndDegree": 45.0,
+      "SignSpan": "10°–15° Taurus",
+      "GlobalSpan": "40°–45°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 66.67,
+      "EndSeconds": 75.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:06",
+      "TimecodeEnd": "01:15"
+    },
+    "Angel": {
+      "Name": "Haziel",
+      "Hebrew": "הזי",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 456,
+      "DivineAttribute": "Merciful God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Paimon",
+      "GoetiaNumber": 9,
+      "Rank": "King",
+      "Legions": 200,
+      "Metal": "Gold",
+      "FrequencyHz": 72,
+      "ChthonicTitle": "Grand Sovereign of Earth Resonance",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Haziel projects divine grace, held firm by Paimon’s monumental sonic bedrock.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 10,
+    "ActNumber": 2,
+    "Sign": "Taurus",
+    "Element": "Earth",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 45.0,
+      "EndDegree": 50.0,
+      "SignSpan": "15°–20° Taurus",
+      "GlobalSpan": "45°–50°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 75.0,
+      "EndSeconds": 83.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:15",
+      "TimecodeEnd": "01:23"
+    },
+    "Angel": {
+      "Name": "Aladiah",
+      "Hebrew": "אלד",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 468,
+      "DivineAttribute": "Propitious God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Buer",
+      "GoetiaNumber": 10,
+      "Rank": "President",
+      "Legions": 50,
+      "Metal": "Mercury",
+      "FrequencyHz": 80,
+      "ChthonicTitle": "Wheel of Herbal Minerals",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Aladiah cures corporeal infirmity, matched with Buer’s mineral alchemical transmutation.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 11,
+    "ActNumber": 2,
+    "Sign": "Taurus",
+    "Element": "Earth",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 50.0,
+      "EndDegree": 55.0,
+      "SignSpan": "20°–25° Taurus",
+      "GlobalSpan": "50°–55°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 83.33,
+      "EndSeconds": 91.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:23",
+      "TimecodeEnd": "01:31"
+    },
+    "Angel": {
+      "Name": "Lauviah",
+      "Hebrew": "לאו",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 480,
+      "DivineAttribute": "God Praised and Exalted",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Gusion",
+      "GoetiaNumber": 11,
+      "Rank": "Duke",
+      "Legions": 40,
+      "Metal": "Copper",
+      "FrequencyHz": 88,
+      "ChthonicTitle": "Mirror of Ancient Slabs",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Lauviah reveals hidden knowledge through quartz, as Gusion anchors historical monoliths.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 12,
+    "ActNumber": 2,
+    "Sign": "Taurus",
+    "Element": "Earth",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 55.0,
+      "EndDegree": 60.0,
+      "SignSpan": "25°–30° Taurus",
+      "GlobalSpan": "55°–60°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 91.67,
+      "EndSeconds": 100.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:31",
+      "TimecodeEnd": "01:40"
+    },
+    "Angel": {
+      "Name": "Hahaiah",
+      "Hebrew": "ההע",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 492,
+      "DivineAttribute": "God the Refuge",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Sitri",
+      "GoetiaNumber": 12,
+      "Rank": "Prince",
+      "Legions": 60,
+      "Metal": "Tin",
+      "FrequencyHz": 96,
+      "ChthonicTitle": "Spark of Telluric Lust",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Hahaiah shelters within sacred caverns, balanced by Sitri’s primal molten desire.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 13,
+    "ActNumber": 3,
+    "Sign": "Gemini",
+    "Element": "Air",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 60.0,
+      "EndDegree": 65.0,
+      "SignSpan": "0°–5° Gemini",
+      "GlobalSpan": "60°–65°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 100.0,
+      "EndSeconds": 108.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:40",
+      "TimecodeEnd": "01:48"
+    },
+    "Angel": {
+      "Name": "Iezalel",
+      "Hebrew": "יזל",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 612,
+      "DivineAttribute": "God Glorified in All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Beleth",
+      "GoetiaNumber": 13,
+      "Rank": "King",
+      "Legions": 85,
+      "Metal": "Gold",
+      "FrequencyHz": 108,
+      "ChthonicTitle": "Commander of Roaring Winds",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Iezalel harmonizes binary minds into unity, met by Beleth’s tempestuous dual storm.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 14,
+    "ActNumber": 3,
+    "Sign": "Gemini",
+    "Element": "Air",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 65.0,
+      "EndDegree": 70.0,
+      "SignSpan": "5°–10° Gemini",
+      "GlobalSpan": "65°–70°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 108.33,
+      "EndSeconds": 116.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:48",
+      "TimecodeEnd": "01:56"
+    },
+    "Angel": {
+      "Name": "Mebahel",
+      "Hebrew": "מבה",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 624,
+      "DivineAttribute": "God the Conservator",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Leraje",
+      "GoetiaNumber": 14,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 114,
+      "ChthonicTitle": "Archer of Split Prisms",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mebahel upholds celestial justice through truth, countered by Leraje’s penetrating arrows of conflict.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 15,
+    "ActNumber": 3,
+    "Sign": "Gemini",
+    "Element": "Air",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 70.0,
+      "EndDegree": 75.0,
+      "SignSpan": "10°–15° Gemini",
+      "GlobalSpan": "70°–75°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 116.67,
+      "EndSeconds": 125.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "01:56",
+      "TimecodeEnd": "02:05"
+    },
+    "Angel": {
+      "Name": "Hariel",
+      "Hebrew": "הרי",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 636,
+      "DivineAttribute": "God the Creator",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Eligos",
+      "GoetiaNumber": 15,
+      "Rank": "Duke",
+      "Legions": 60,
+      "Metal": "Copper",
+      "FrequencyHz": 120,
+      "ChthonicTitle": "Strategist of Aerial Phantoms",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Hariel purifies mental clarity, balanced by Eligos’s shadowy tactical prophecies.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 16,
+    "ActNumber": 3,
+    "Sign": "Gemini",
+    "Element": "Air",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 75.0,
+      "EndDegree": 80.0,
+      "SignSpan": "15°–20° Gemini",
+      "GlobalSpan": "75°–80°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 125.0,
+      "EndSeconds": 133.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:05",
+      "TimecodeEnd": "02:13"
+    },
+    "Angel": {
+      "Name": "Hakamiah",
+      "Hebrew": "הקם",
+      "Choir": "Cherubim",
+      "Sphere": "Chokmah",
+      "FrequencyHz": 648,
+      "DivineAttribute": "God Governing the Universe",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Zepar",
+      "GoetiaNumber": 16,
+      "Rank": "Duke",
+      "Legions": 26,
+      "Metal": "Copper",
+      "FrequencyHz": 126,
+      "ChthonicTitle": "Weaver of Polarized Passions",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Hakamiah binds loyalties in the ether, matched with Zepar’s volatile seductive currents.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 17,
+    "ActNumber": 3,
+    "Sign": "Gemini",
+    "Element": "Air",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 80.0,
+      "EndDegree": 85.0,
+      "SignSpan": "20°–25° Gemini",
+      "GlobalSpan": "80°–85°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 133.33,
+      "EndSeconds": 141.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:13",
+      "TimecodeEnd": "02:21"
+    },
+    "Angel": {
+      "Name": "Lauviah II",
+      "Hebrew": "לאו",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 660,
+      "DivineAttribute": "Admirable God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Botis",
+      "GoetiaNumber": 17,
+      "Rank": "President",
+      "Legions": 60,
+      "Metal": "Mercury",
+      "FrequencyHz": 132,
+      "ChthonicTitle": "Serpent of Bifurcated Realities",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Lauviah dispels mental anguish, while Botis unifies past and future illusions.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 18,
+    "ActNumber": 3,
+    "Sign": "Gemini",
+    "Element": "Air",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 85.0,
+      "EndDegree": 90.0,
+      "SignSpan": "25°–30° Gemini",
+      "GlobalSpan": "85°–90°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 141.67,
+      "EndSeconds": 150.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:21",
+      "TimecodeEnd": "02:30"
+    },
+    "Angel": {
+      "Name": "Caliel",
+      "Hebrew": "כלי",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 672,
+      "DivineAttribute": "God Ready to Succor",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Bathin",
+      "GoetiaNumber": 18,
+      "Rank": "Duke",
+      "Legions": 30,
+      "Metal": "Copper",
+      "FrequencyHz": 138,
+      "ChthonicTitle": "Courier of Rapid Dimensions",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Caliel shines instant discernment, interwoven with Bathin’s swift interdimensional transit.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 19,
+    "ActNumber": 4,
+    "Sign": "Cancer",
+    "Element": "Water",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 90.0,
+      "EndDegree": 95.0,
+      "SignSpan": "0°–5° Cancer",
+      "GlobalSpan": "90°–95°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 150.0,
+      "EndSeconds": 158.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:30",
+      "TimecodeEnd": "02:38"
+    },
+    "Angel": {
+      "Name": "Leuviah",
+      "Hebrew": "לוו",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 396,
+      "DivineAttribute": "God Who Exalts the Sinner",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Sallos",
+      "GoetiaNumber": 19,
+      "Rank": "Duke",
+      "Legions": 30,
+      "Metal": "Copper",
+      "FrequencyHz": 42,
+      "ChthonicTitle": "Rider of Deep Love Currents",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Leuviah retrieves ancient memories in tidal pools, greeted by Sallos’s gravitational emotional tide.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 20,
+    "ActNumber": 4,
+    "Sign": "Cancer",
+    "Element": "Water",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 95.0,
+      "EndDegree": 100.0,
+      "SignSpan": "5°–10° Cancer",
+      "GlobalSpan": "95°–100°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 158.33,
+      "EndSeconds": 166.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:38",
+      "TimecodeEnd": "02:46"
+    },
+    "Angel": {
+      "Name": "Pahaliah",
+      "Hebrew": "פהל",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 408,
+      "DivineAttribute": "Redeeming God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Purson",
+      "GoetiaNumber": 20,
+      "Rank": "King",
+      "Legions": 22,
+      "Metal": "Gold",
+      "FrequencyHz": 46,
+      "ChthonicTitle": "Sounder of Abyssal Horns",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Pahaliah awakens mystical intuition, met by Purson’s deep oceanic subterranean fanfare.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 21,
+    "ActNumber": 4,
+    "Sign": "Cancer",
+    "Element": "Water",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 100.0,
+      "EndDegree": 105.0,
+      "SignSpan": "10°–15° Cancer",
+      "GlobalSpan": "100°–105°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 166.67,
+      "EndSeconds": 175.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:46",
+      "TimecodeEnd": "02:55"
+    },
+    "Angel": {
+      "Name": "Nelchael",
+      "Hebrew": "נלך",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 420,
+      "DivineAttribute": "God One and Unique",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Marax",
+      "GoetiaNumber": 21,
+      "Rank": "President",
+      "Legions": 30,
+      "Metal": "Mercury",
+      "FrequencyHz": 50,
+      "ChthonicTitle": "Scholar of Oceanic Depths",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Nelchael illuminates astronomy within water reflections, while Marax cataloges abyssal fauna.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 22,
+    "ActNumber": 4,
+    "Sign": "Cancer",
+    "Element": "Water",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 105.0,
+      "EndDegree": 110.0,
+      "SignSpan": "15°–20° Cancer",
+      "GlobalSpan": "105°–110°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 175.0,
+      "EndSeconds": 183.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "02:55",
+      "TimecodeEnd": "03:03"
+    },
+    "Angel": {
+      "Name": "Yeiayel",
+      "Hebrew": "ייי",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 432,
+      "DivineAttribute": "Right Hand of God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Ipos",
+      "GoetiaNumber": 22,
+      "Rank": "Count",
+      "Legions": 36,
+      "Metal": "Silver",
+      "FrequencyHz": 54,
+      "ChthonicTitle": "Lion-Headed Tide Master",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Yeiayel guides seafaring vessels through storms, balanced by Ipos’s sharp intuitive undercurrents.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 23,
+    "ActNumber": 4,
+    "Sign": "Cancer",
+    "Element": "Water",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 110.0,
+      "EndDegree": 115.0,
+      "SignSpan": "20°–25° Cancer",
+      "GlobalSpan": "110°–115°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 183.33,
+      "EndSeconds": 191.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:03",
+      "TimecodeEnd": "03:11"
+    },
+    "Angel": {
+      "Name": "Melahel",
+      "Hebrew": "מלה",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 444,
+      "DivineAttribute": "God Deflecting the Evil",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Aim",
+      "GoetiaNumber": 23,
+      "Rank": "Duke",
+      "Legions": 26,
+      "Metal": "Copper",
+      "FrequencyHz": 58,
+      "ChthonicTitle": "Torchbearer of Sunken Cities",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Melahel yields soothing herbal balms, while Aim ignites underwater phosphorus flames.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 24,
+    "ActNumber": 4,
+    "Sign": "Cancer",
+    "Element": "Water",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 115.0,
+      "EndDegree": 120.0,
+      "SignSpan": "25°–30° Cancer",
+      "GlobalSpan": "115°–120°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 191.67,
+      "EndSeconds": 200.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:11",
+      "TimecodeEnd": "03:20"
+    },
+    "Angel": {
+      "Name": "Haheuiah",
+      "Hebrew": "חהו",
+      "Choir": "Thrones",
+      "Sphere": "Binah",
+      "FrequencyHz": 456,
+      "DivineAttribute": "God Good of Himself",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Naberius",
+      "GoetiaNumber": 24,
+      "Rank": "Marquis",
+      "Legions": 19,
+      "Metal": "Silver",
+      "FrequencyHz": 62,
+      "ChthonicTitle": "Guardian of the Stygian Gate",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Haheuiah grants divine protection against drowning, meeting Naberius at the threshold of the deep.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 25,
+    "ActNumber": 5,
+    "Sign": "Leo",
+    "Element": "Fire",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 120.0,
+      "EndDegree": 125.0,
+      "SignSpan": "0°–5° Leo",
+      "GlobalSpan": "120°–125°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 200.0,
+      "EndSeconds": 208.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:20",
+      "TimecodeEnd": "03:28"
+    },
+    "Angel": {
+      "Name": "Nith-Haiah",
+      "Hebrew": "נתה",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 741,
+      "DivineAttribute": "God Giving Wisdom",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Glasya-Labolas",
+      "GoetiaNumber": 25,
+      "Rank": "President",
+      "Legions": 36,
+      "Metal": "Mercury",
+      "FrequencyHz": 70,
+      "ChthonicTitle": "Winged Hound of Solar Blood",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Nith-Haiah commands occult solar wisdom, checked by Glasya-Labolas’s razor plasma teeth.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 26,
+    "ActNumber": 5,
+    "Sign": "Leo",
+    "Element": "Fire",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 125.0,
+      "EndDegree": 130.0,
+      "SignSpan": "5°–10° Leo",
+      "GlobalSpan": "125°–130°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 208.33,
+      "EndSeconds": 216.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:28",
+      "TimecodeEnd": "03:36"
+    },
+    "Angel": {
+      "Name": "Haaiah",
+      "Hebrew": "האא",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 753,
+      "DivineAttribute": "Hidden God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Bune",
+      "GoetiaNumber": 26,
+      "Rank": "Duke",
+      "Legions": 30,
+      "Metal": "Copper",
+      "FrequencyHz": 76,
+      "ChthonicTitle": "Dragon of Golden Sepulchres",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Haaiah defends state secrets under solar oath, as Bune converts royal ambition into lasting wealth.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 27,
+    "ActNumber": 5,
+    "Sign": "Leo",
+    "Element": "Fire",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 130.0,
+      "EndDegree": 135.0,
+      "SignSpan": "10°–15° Leo",
+      "GlobalSpan": "130°–135°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 216.67,
+      "EndSeconds": 225.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:36",
+      "TimecodeEnd": "03:45"
+    },
+    "Angel": {
+      "Name": "Yeratel",
+      "Hebrew": "ירת",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 765,
+      "DivineAttribute": "God Punishing the Wicked",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Ronove",
+      "GoetiaNumber": 27,
+      "Rank": "Marquis",
+      "Legions": 19,
+      "Metal": "Silver",
+      "FrequencyHz": 82,
+      "ChthonicTitle": "Master of Solar Rhetoric",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Yeratel spreads radiant justice across continents, met by Ronove’s silver-tongued courtly resonance.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 28,
+    "ActNumber": 5,
+    "Sign": "Leo",
+    "Element": "Fire",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 135.0,
+      "EndDegree": 140.0,
+      "SignSpan": "15°–20° Leo",
+      "GlobalSpan": "135°–140°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 225.0,
+      "EndSeconds": 233.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:45",
+      "TimecodeEnd": "03:53"
+    },
+    "Angel": {
+      "Name": "Seheiah",
+      "Hebrew": "שאה",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 777,
+      "DivineAttribute": "God Healing the Sick",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Berith",
+      "GoetiaNumber": 28,
+      "Rank": "Duke",
+      "Legions": 26,
+      "Metal": "Copper",
+      "FrequencyHz": 88,
+      "ChthonicTitle": "Red Alchemist of the Crown",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Seheiah protects against thunder and ruin, while Berith binds kings in alchemical gold pacts.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 29,
+    "ActNumber": 5,
+    "Sign": "Leo",
+    "Element": "Fire",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 140.0,
+      "EndDegree": 145.0,
+      "SignSpan": "20°–25° Leo",
+      "GlobalSpan": "140°–145°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 233.33,
+      "EndSeconds": 241.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "03:53",
+      "TimecodeEnd": "04:01"
+    },
+    "Angel": {
+      "Name": "Reiyel",
+      "Hebrew": "ריי",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 789,
+      "DivineAttribute": "God Quick to Succor",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Astaroth",
+      "GoetiaNumber": 29,
+      "Rank": "Duke",
+      "Legions": 40,
+      "Metal": "Copper",
+      "FrequencyHz": 94,
+      "ChthonicTitle": "Grand Inquisitor of Sunken Light",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Reiyel delivers souls from idolatry, directly confronting Astaroth’s mesmerizing abyssal intellect.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 30,
+    "ActNumber": 5,
+    "Sign": "Leo",
+    "Element": "Fire",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 145.0,
+      "EndDegree": 150.0,
+      "SignSpan": "25°–30° Leo",
+      "GlobalSpan": "145°–150°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 241.67,
+      "EndSeconds": 250.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:01",
+      "TimecodeEnd": "04:10"
+    },
+    "Angel": {
+      "Name": "Omael",
+      "Hebrew": "אום",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 801,
+      "DivineAttribute": "Patient God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Forneus",
+      "GoetiaNumber": 30,
+      "Rank": "Marquis",
+      "Legions": 29,
+      "Metal": "Silver",
+      "FrequencyHz": 100,
+      "ChthonicTitle": "Leviathan of the Golden Sea",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Omael breathes divine patience into creation, counterbalanced by Forneus’s monumental sovereign name.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 31,
+    "ActNumber": 6,
+    "Sign": "Virgo",
+    "Element": "Earth",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 150.0,
+      "EndDegree": 155.0,
+      "SignSpan": "0°–5° Virgo",
+      "GlobalSpan": "150°–155°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 250.0,
+      "EndSeconds": 258.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:10",
+      "TimecodeEnd": "04:18"
+    },
+    "Angel": {
+      "Name": "Lecabel",
+      "Hebrew": "לכב",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 852,
+      "DivineAttribute": "God Inspiring",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Foras",
+      "GoetiaNumber": 31,
+      "Rank": "President",
+      "Legions": 29,
+      "Metal": "Mercury",
+      "FrequencyHz": 110,
+      "ChthonicTitle": "Herbalist of the Hidden Stones",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Lecabel calculates divine agronomy and geometry, while Foras harvests medicinal stone virtues.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 32,
+    "ActNumber": 6,
+    "Sign": "Virgo",
+    "Element": "Earth",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 155.0,
+      "EndDegree": 160.0,
+      "SignSpan": "5°–10° Virgo",
+      "GlobalSpan": "155°–160°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 258.33,
+      "EndSeconds": 266.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:18",
+      "TimecodeEnd": "04:26"
+    },
+    "Angel": {
+      "Name": "Vasariah",
+      "Hebrew": "ושר",
+      "Choir": "Dominations",
+      "Sphere": "Chesed",
+      "FrequencyHz": 864,
+      "DivineAttribute": "Just God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Asmoday",
+      "GoetiaNumber": 32,
+      "Rank": "King",
+      "Legions": 72,
+      "Metal": "Gold",
+      "FrequencyHz": 116,
+      "ChthonicTitle": "Sovereign of Precise Geometry",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Vasariah delivers pure legal equity, counterpointed by Asmoday’s unbreakable mathematical rings.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 33,
+    "ActNumber": 6,
+    "Sign": "Virgo",
+    "Element": "Earth",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 160.0,
+      "EndDegree": 165.0,
+      "SignSpan": "10°–15° Virgo",
+      "GlobalSpan": "160°–165°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 266.67,
+      "EndSeconds": 275.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:26",
+      "TimecodeEnd": "04:35"
+    },
+    "Angel": {
+      "Name": "Yehuiah",
+      "Hebrew": "יחו",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 876,
+      "DivineAttribute": "God Omniscient",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Gaap",
+      "GoetiaNumber": 33,
+      "Rank": "Prince",
+      "Legions": 66,
+      "Metal": "Tin",
+      "FrequencyHz": 122,
+      "ChthonicTitle": "Guide Across Meridian Lines",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Yehuiah identifies treason through analytical light, while Gaap teleports between structural meridians.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 34,
+    "ActNumber": 6,
+    "Sign": "Virgo",
+    "Element": "Earth",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 165.0,
+      "EndDegree": 170.0,
+      "SignSpan": "15°–20° Virgo",
+      "GlobalSpan": "165°–170°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 275.0,
+      "EndSeconds": 283.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:35",
+      "TimecodeEnd": "04:43"
+    },
+    "Angel": {
+      "Name": "Lehahiah",
+      "Hebrew": "להח",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 888,
+      "DivineAttribute": "Clement God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Furfur",
+      "GoetiaNumber": 34,
+      "Rank": "Count",
+      "Legions": 26,
+      "Metal": "Silver",
+      "FrequencyHz": 128,
+      "ChthonicTitle": "Hart of Lightning and Faults",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Lehahiah commands absolute discipline, met by Furfur’s crackling tectonic spark within stone.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 35,
+    "ActNumber": 6,
+    "Sign": "Virgo",
+    "Element": "Earth",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 170.0,
+      "EndDegree": 175.0,
+      "SignSpan": "20°–25° Virgo",
+      "GlobalSpan": "170°–175°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 283.33,
+      "EndSeconds": 291.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:43",
+      "TimecodeEnd": "04:51"
+    },
+    "Angel": {
+      "Name": "Chavakiah",
+      "Hebrew": "כוק",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 900,
+      "DivineAttribute": "God Giving Joy",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Marchosias",
+      "GoetiaNumber": 35,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 134,
+      "ChthonicTitle": "Wolf of Unbroken Faith",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Chavakiah reconciles estranged bloodlines, anchored by Marchosias’s fierce martial loyalty.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 36,
+    "ActNumber": 6,
+    "Sign": "Virgo",
+    "Element": "Earth",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 175.0,
+      "EndDegree": 180.0,
+      "SignSpan": "25°–30° Virgo",
+      "GlobalSpan": "175°–180°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 291.67,
+      "EndSeconds": 300.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "04:51",
+      "TimecodeEnd": "05:00"
+    },
+    "Angel": {
+      "Name": "Menadel",
+      "Hebrew": "מנד",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 912,
+      "DivineAttribute": "Adorable God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Stolas",
+      "GoetiaNumber": 36,
+      "Rank": "Prince",
+      "Legions": 26,
+      "Metal": "Tin",
+      "FrequencyHz": 140,
+      "ChthonicTitle": "Astronomer of Stellar Roots",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Menadel liberates prisoners from labor, as Stolas charts plant and gem coordinates beneath stars.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 37,
+    "ActNumber": 7,
+    "Sign": "Libra",
+    "Element": "Air",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 180.0,
+      "EndDegree": 185.0,
+      "SignSpan": "0°–5° Libra",
+      "GlobalSpan": "180°–185°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 300.0,
+      "EndSeconds": 308.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:00",
+      "TimecodeEnd": "05:08"
+    },
+    "Angel": {
+      "Name": "Aniel",
+      "Hebrew": "אני",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 963,
+      "DivineAttribute": "God of Virtues",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Phenex",
+      "GoetiaNumber": 37,
+      "Rank": "Marquis",
+      "Legions": 20,
+      "Metal": "Silver",
+      "FrequencyHz": 150,
+      "ChthonicTitle": "Phoenix of Harmonic Song",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Aniel breaks the sieges of falsehood, met by Phenex’s soaring chromatic melody. (Axis Opposition 180° Inversion Point)",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 38,
+    "ActNumber": 7,
+    "Sign": "Libra",
+    "Element": "Air",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 185.0,
+      "EndDegree": 190.0,
+      "SignSpan": "5°–10° Libra",
+      "GlobalSpan": "185°–190°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 308.33,
+      "EndSeconds": 316.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:08",
+      "TimecodeEnd": "05:16"
+    },
+    "Angel": {
+      "Name": "Haamiah",
+      "Hebrew": "חעם",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 975,
+      "DivineAttribute": "God the Desired",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Halphas",
+      "GoetiaNumber": 38,
+      "Rank": "Count",
+      "Legions": 26,
+      "Metal": "Silver",
+      "FrequencyHz": 156,
+      "ChthonicTitle": "Builder of Balanced Towers",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Haamiah sanctifies sacred ritual equilibrium, as Halphas fortifies the ramparts of air.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 39,
+    "ActNumber": 7,
+    "Sign": "Libra",
+    "Element": "Air",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 190.0,
+      "EndDegree": 195.0,
+      "SignSpan": "10°–15° Libra",
+      "GlobalSpan": "190°–195°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 316.67,
+      "EndSeconds": 325.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:16",
+      "TimecodeEnd": "05:25"
+    },
+    "Angel": {
+      "Name": "Rehael",
+      "Hebrew": "רהע",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 987,
+      "DivineAttribute": "God Swift to Condone",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Malphas",
+      "GoetiaNumber": 39,
+      "Rank": "President",
+      "Legions": 40,
+      "Metal": "Mercury",
+      "FrequencyHz": 162,
+      "ChthonicTitle": "Crow of Architectural Symmetry",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Rehael heals paternal fractures with compassion, while Malphas erects immaculate balanced spires.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 40,
+    "ActNumber": 7,
+    "Sign": "Libra",
+    "Element": "Air",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 195.0,
+      "EndDegree": 200.0,
+      "SignSpan": "15°–20° Libra",
+      "GlobalSpan": "195°–200°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 325.0,
+      "EndSeconds": 333.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:25",
+      "TimecodeEnd": "05:33"
+    },
+    "Angel": {
+      "Name": "Ieiazel",
+      "Hebrew": "ייז",
+      "Choir": "Powers",
+      "Sphere": "Geburah",
+      "FrequencyHz": 999,
+      "DivineAttribute": "God Rejoicing",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Raum",
+      "GoetiaNumber": 40,
+      "Rank": "Count",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 168,
+      "ChthonicTitle": "Thief of False Weights",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Ieiazel liberates the oppressed writer, as Raum strips away illusions to restore karmic scale balance.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 41,
+    "ActNumber": 7,
+    "Sign": "Libra",
+    "Element": "Air",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 200.0,
+      "EndDegree": 205.0,
+      "SignSpan": "20°–25° Libra",
+      "GlobalSpan": "200°–205°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 333.33,
+      "EndSeconds": 341.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:33",
+      "TimecodeEnd": "05:41"
+    },
+    "Angel": {
+      "Name": "Hahahel",
+      "Hebrew": "ההה",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 1011,
+      "DivineAttribute": "God in Three Persons",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Focalor",
+      "GoetiaNumber": 41,
+      "Rank": "Duke",
+      "Legions": 30,
+      "Metal": "Copper",
+      "FrequencyHz": 174,
+      "ChthonicTitle": "Lord of the Calm Zephyrs",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Hahahel establishes spiritual mission, met by Focalor’s command over wind vortex equilibrium.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 42,
+    "ActNumber": 7,
+    "Sign": "Libra",
+    "Element": "Air",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 205.0,
+      "EndDegree": 210.0,
+      "SignSpan": "25°–30° Libra",
+      "GlobalSpan": "205°–210°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 341.67,
+      "EndSeconds": 350.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:41",
+      "TimecodeEnd": "05:50"
+    },
+    "Angel": {
+      "Name": "Mikael",
+      "Hebrew": "מיכ",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 1023,
+      "DivineAttribute": "Virtue of God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Vepar",
+      "GoetiaNumber": 42,
+      "Rank": "Duke",
+      "Legions": 29,
+      "Metal": "Copper",
+      "FrequencyHz": 180,
+      "ChthonicTitle": "Navigator of Mirrored Horizons",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mikael sustains political treaties and cosmic order, counterweighted by Vepar’s oceanic balance.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 43,
+    "ActNumber": 8,
+    "Sign": "Scorpio",
+    "Element": "Water",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 210.0,
+      "EndDegree": 215.0,
+      "SignSpan": "0°–5° Scorpio",
+      "GlobalSpan": "210°–215°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 350.0,
+      "EndSeconds": 358.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:50",
+      "TimecodeEnd": "05:58"
+    },
+    "Angel": {
+      "Name": "Veuliah",
+      "Hebrew": "וול",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 285,
+      "DivineAttribute": "King Ruler",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Sabnock",
+      "GoetiaNumber": 43,
+      "Rank": "Marquis",
+      "Legions": 50,
+      "Metal": "Silver",
+      "FrequencyHz": 38,
+      "ChthonicTitle": "Architect of Putrefaction Walls",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Veuliah destroys military tyrannies, while Sabnock raises impenetrable defenses around decaying matter.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 44,
+    "ActNumber": 8,
+    "Sign": "Scorpio",
+    "Element": "Water",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 215.0,
+      "EndDegree": 220.0,
+      "SignSpan": "5°–10° Scorpio",
+      "GlobalSpan": "215°–220°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 358.33,
+      "EndSeconds": 366.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "05:58",
+      "TimecodeEnd": "06:06"
+    },
+    "Angel": {
+      "Name": "Yelahiah",
+      "Hebrew": "ילה",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 297,
+      "DivineAttribute": "Eternal God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Shax",
+      "GoetiaNumber": 44,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 42,
+      "ChthonicTitle": "Stealer of Light and Sight",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Yelahiah defends lawful warriors with radiant shields, contrasted with Shax’s sight-depriving shadows.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 45,
+    "ActNumber": 8,
+    "Sign": "Scorpio",
+    "Element": "Water",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 220.0,
+      "EndDegree": 225.0,
+      "SignSpan": "10°–15° Scorpio",
+      "GlobalSpan": "220°–225°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 366.67,
+      "EndSeconds": 375.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:06",
+      "TimecodeEnd": "06:15"
+    },
+    "Angel": {
+      "Name": "Sealiah",
+      "Hebrew": "סאל",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 309,
+      "DivineAttribute": "Mover of All Things",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Vine",
+      "GoetiaNumber": 45,
+      "Rank": "King",
+      "Legions": 36,
+      "Metal": "Gold",
+      "FrequencyHz": 46,
+      "ChthonicTitle": "Unearther of Submerged Witchcraft",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Sealiah resurrects dormant springs of life, as Vine dismantles covert structures beneath the surface.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 46,
+    "ActNumber": 8,
+    "Sign": "Scorpio",
+    "Element": "Water",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 225.0,
+      "EndDegree": 230.0,
+      "SignSpan": "15°–20° Scorpio",
+      "GlobalSpan": "225°–230°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 375.0,
+      "EndSeconds": 383.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:15",
+      "TimecodeEnd": "06:23"
+    },
+    "Angel": {
+      "Name": "Ariel",
+      "Hebrew": "ערי",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 321,
+      "DivineAttribute": "Revealing God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Bifrons",
+      "GoetiaNumber": 46,
+      "Rank": "Earl",
+      "Legions": 26,
+      "Metal": "Silver",
+      "FrequencyHz": 50,
+      "ChthonicTitle": "Igniter of Corpse Lights",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Ariel reveals cosmic dreams through pristine water, while Bifrons illuminates necromantic sepulchres.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 47,
+    "ActNumber": 8,
+    "Sign": "Scorpio",
+    "Element": "Water",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 230.0,
+      "EndDegree": 235.0,
+      "SignSpan": "20°–25° Scorpio",
+      "GlobalSpan": "230°–235°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 383.33,
+      "EndSeconds": 391.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:23",
+      "TimecodeEnd": "06:31"
+    },
+    "Angel": {
+      "Name": "Asaliah",
+      "Hebrew": "עשל",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 333,
+      "DivineAttribute": "Praising God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Vual",
+      "GoetiaNumber": 47,
+      "Rank": "Duke",
+      "Legions": 37,
+      "Metal": "Copper",
+      "FrequencyHz": 54,
+      "ChthonicTitle": "Emissary of Ancient Deep Love",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Asaliah contemplates celestial justice, met by Vual’s ancient primordial emotional currents.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 48,
+    "ActNumber": 8,
+    "Sign": "Scorpio",
+    "Element": "Water",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 235.0,
+      "EndDegree": 240.0,
+      "SignSpan": "25°–30° Scorpio",
+      "GlobalSpan": "235°–240°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 391.67,
+      "EndSeconds": 400.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:31",
+      "TimecodeEnd": "06:40"
+    },
+    "Angel": {
+      "Name": "Mihael",
+      "Hebrew": "מיה",
+      "Choir": "Virtues",
+      "Sphere": "Tiphereth",
+      "FrequencyHz": 345,
+      "DivineAttribute": "God Father Generous",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Haagenti",
+      "GoetiaNumber": 48,
+      "Rank": "President",
+      "Legions": 33,
+      "Metal": "Mercury",
+      "FrequencyHz": 58,
+      "ChthonicTitle": "Transmuter of Abyssal Waters",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mihael unites masculine and feminine spiritual essence. At 240° (6:40), Haagenti breaches the boundary: the 108° Zen Shield triggers the lateral dolly escape into the Ophiuchus Void!",
+    "IsBreachPoint": true
+  },
+  {
+    "GateId": 49,
+    "ActNumber": 9,
+    "Sign": "Sagittarius",
+    "Element": "Fire",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 240.0,
+      "EndDegree": 245.0,
+      "SignSpan": "0°–5° Sagittarius",
+      "GlobalSpan": "240°–245°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 400.0,
+      "EndSeconds": 408.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:40",
+      "TimecodeEnd": "06:48"
+    },
+    "Angel": {
+      "Name": "Vehuel",
+      "Hebrew": "והו",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 639,
+      "DivineAttribute": "God Great and Exalted",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Crocell",
+      "GoetiaNumber": 49,
+      "Rank": "Duke",
+      "Legions": 48,
+      "Metal": "Copper",
+      "FrequencyHz": 72,
+      "ChthonicTitle": "Warm Springs of Hidden Geometries",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Vehuel elevates consciousness to the heights, while Crocell warms the subterranean baths of knowledge.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 50,
+    "ActNumber": 9,
+    "Sign": "Sagittarius",
+    "Element": "Fire",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 245.0,
+      "EndDegree": 250.0,
+      "SignSpan": "5°–10° Sagittarius",
+      "GlobalSpan": "245°–250°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 408.33,
+      "EndSeconds": 416.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:48",
+      "TimecodeEnd": "06:56"
+    },
+    "Angel": {
+      "Name": "Daniel",
+      "Hebrew": "דני",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 651,
+      "DivineAttribute": "Sign of Mercies",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Furcas",
+      "GoetiaNumber": 50,
+      "Rank": "Knight",
+      "Legions": 20,
+      "Metal": "Lead",
+      "FrequencyHz": 78,
+      "ChthonicTitle": "Crucible of Grim Philosophy",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Daniel inspires eloquent celestial consolation, countered by Furcas’s stoic, razor-sharp logical rigors.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 51,
+    "ActNumber": 9,
+    "Sign": "Sagittarius",
+    "Element": "Fire",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 250.0,
+      "EndDegree": 255.0,
+      "SignSpan": "10°–15° Sagittarius",
+      "GlobalSpan": "250°–255°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 416.67,
+      "EndSeconds": 425.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "06:56",
+      "TimecodeEnd": "07:05"
+    },
+    "Angel": {
+      "Name": "Hahasiah",
+      "Hebrew": "החש",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 663,
+      "DivineAttribute": "Concealed God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Balam",
+      "GoetiaNumber": 51,
+      "Rank": "King",
+      "Legions": 40,
+      "Metal": "Gold",
+      "FrequencyHz": 84,
+      "ChthonicTitle": "Three-Headed Oracle of Past & Future",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Hahasiah unveils the hermetic philosopher’s stone, while Balam reveals all temporal coordinate shifts.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 52,
+    "ActNumber": 9,
+    "Sign": "Sagittarius",
+    "Element": "Fire",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 255.0,
+      "EndDegree": 260.0,
+      "SignSpan": "15°–20° Sagittarius",
+      "GlobalSpan": "255°–260°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 425.0,
+      "EndSeconds": 433.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:05",
+      "TimecodeEnd": "07:13"
+    },
+    "Angel": {
+      "Name": "Imamiah",
+      "Hebrew": "עמם",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 675,
+      "DivineAttribute": "God Raised Above All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Alloces",
+      "GoetiaNumber": 52,
+      "Rank": "Duke",
+      "Legions": 36,
+      "Metal": "Copper",
+      "FrequencyHz": 90,
+      "ChthonicTitle": "Astronomer of Burning Horses",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Imamiah breaks prison shackles through devotion, met by Alloces’s galloping celestial iron legions.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 53,
+    "ActNumber": 9,
+    "Sign": "Sagittarius",
+    "Element": "Fire",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 260.0,
+      "EndDegree": 265.0,
+      "SignSpan": "20°–25° Sagittarius",
+      "GlobalSpan": "260°–265°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 433.33,
+      "EndSeconds": 441.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:13",
+      "TimecodeEnd": "07:21"
+    },
+    "Angel": {
+      "Name": "Nanael",
+      "Hebrew": "ננא",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 687,
+      "DivineAttribute": "God Humbling the Proud",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Camio",
+      "GoetiaNumber": 53,
+      "Rank": "President",
+      "Legions": 30,
+      "Metal": "Mercury",
+      "FrequencyHz": 96,
+      "ChthonicTitle": "Interpreter of the Flying Coals",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Nanael facilitates high abstract contemplation, as Camio translates the language of smoke and birds.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 54,
+    "ActNumber": 9,
+    "Sign": "Sagittarius",
+    "Element": "Fire",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 265.0,
+      "EndDegree": 270.0,
+      "SignSpan": "25°–30° Sagittarius",
+      "GlobalSpan": "265°–270°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 441.67,
+      "EndSeconds": 450.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:21",
+      "TimecodeEnd": "07:30"
+    },
+    "Angel": {
+      "Name": "Nithael",
+      "Hebrew": "נית",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 699,
+      "DivineAttribute": "King of Heaven",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Murmur",
+      "GoetiaNumber": 54,
+      "Rank": "Duke",
+      "Legions": 30,
+      "Metal": "Copper",
+      "FrequencyHz": 102,
+      "ChthonicTitle": "Trumpeter of the Ancestral Dead",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Nithael ensures legitimate dynasty and cosmic succession, counterbalanced by Murmur’s ghostly ancestral horns.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 55,
+    "ActNumber": 10,
+    "Sign": "Capricorn",
+    "Element": "Earth",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 270.0,
+      "EndDegree": 275.0,
+      "SignSpan": "0°–5° Capricorn",
+      "GlobalSpan": "270°–275°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 450.0,
+      "EndSeconds": 458.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:30",
+      "TimecodeEnd": "07:38"
+    },
+    "Angel": {
+      "Name": "Mebahiah",
+      "Hebrew": "מבה",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 528,
+      "DivineAttribute": "Eternal God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Orobas",
+      "GoetiaNumber": 55,
+      "Rank": "Prince",
+      "Legions": 20,
+      "Metal": "Tin",
+      "FrequencyHz": 85,
+      "ChthonicTitle": "Herald of Unshakable Truth",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mebahiah confers moral integrity to structural laws, reinforced by Orobas’s refusal to deceive.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 56,
+    "ActNumber": 10,
+    "Sign": "Capricorn",
+    "Element": "Earth",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 275.0,
+      "EndDegree": 280.0,
+      "SignSpan": "5°–10° Capricorn",
+      "GlobalSpan": "275°–280°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 458.33,
+      "EndSeconds": 466.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:38",
+      "TimecodeEnd": "07:46"
+    },
+    "Angel": {
+      "Name": "Poiel",
+      "Hebrew": "פוי",
+      "Choir": "Principalities",
+      "Sphere": "Netzach",
+      "FrequencyHz": 540,
+      "DivineAttribute": "God Supporting the Universe",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Gremory",
+      "GoetiaNumber": 56,
+      "Rank": "Duke",
+      "Legions": 26,
+      "Metal": "Copper",
+      "FrequencyHz": 90,
+      "ChthonicTitle": "Duchess of the Hidden Gold Veins",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Poiel bestows fame and philosophical abundance, alongside Gremory’s discovery of subterranean treasures.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 57,
+    "ActNumber": 10,
+    "Sign": "Capricorn",
+    "Element": "Earth",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 280.0,
+      "EndDegree": 285.0,
+      "SignSpan": "10°–15° Capricorn",
+      "GlobalSpan": "280°–285°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 466.67,
+      "EndSeconds": 475.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:46",
+      "TimecodeEnd": "07:55"
+    },
+    "Angel": {
+      "Name": "Nemamiah",
+      "Hebrew": "נמם",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 552,
+      "DivineAttribute": "Praiseworthy God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Ose",
+      "GoetiaNumber": 57,
+      "Rank": "President",
+      "Legions": 30,
+      "Metal": "Mercury",
+      "FrequencyHz": 95,
+      "ChthonicTitle": "Shapeshifter of the Granite Vaults",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Nemamiah grants victory to just commanders, tested by Ose’s psychological metamorphic trials.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 58,
+    "ActNumber": 10,
+    "Sign": "Capricorn",
+    "Element": "Earth",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 285.0,
+      "EndDegree": 290.0,
+      "SignSpan": "15°–20° Capricorn",
+      "GlobalSpan": "285°–290°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 475.0,
+      "EndSeconds": 483.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "07:55",
+      "TimecodeEnd": "08:03"
+    },
+    "Angel": {
+      "Name": "Yeialel",
+      "Hebrew": "יילא",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 564,
+      "DivineAttribute": "God Hearing Sighs",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Amy",
+      "GoetiaNumber": 58,
+      "Rank": "President",
+      "Legions": 36,
+      "Metal": "Mercury",
+      "FrequencyHz": 100,
+      "ChthonicTitle": "Blazing Core of Mechanical Sciences",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Yeialel dissolves sorrow through intellectual endurance, matched with Amy’s brilliant knowledge of the sciences.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 59,
+    "ActNumber": 10,
+    "Sign": "Capricorn",
+    "Element": "Earth",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 290.0,
+      "EndDegree": 295.0,
+      "SignSpan": "20°–25° Capricorn",
+      "GlobalSpan": "290°–295°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 483.33,
+      "EndSeconds": 491.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:03",
+      "TimecodeEnd": "08:11"
+    },
+    "Angel": {
+      "Name": "Harahel",
+      "Hebrew": "הרח",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 576,
+      "DivineAttribute": "God Knowing All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Orias",
+      "GoetiaNumber": 59,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 105,
+      "ChthonicTitle": "Stargazer of the Mineral Throne",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Harahel enriches mental libraries and archives, as Orias maps the fixed stars onto stone talismans.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 60,
+    "ActNumber": 10,
+    "Sign": "Capricorn",
+    "Element": "Earth",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 295.0,
+      "EndDegree": 300.0,
+      "SignSpan": "25°–30° Capricorn",
+      "GlobalSpan": "295°–300°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 491.67,
+      "EndSeconds": 500.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:11",
+      "TimecodeEnd": "08:20"
+    },
+    "Angel": {
+      "Name": "Mitzrael",
+      "Hebrew": "מצר",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 588,
+      "DivineAttribute": "God Raising the Oppressed",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Vapula",
+      "GoetiaNumber": 60,
+      "Rank": "Duke",
+      "Legions": 36,
+      "Metal": "Copper",
+      "FrequencyHz": 110,
+      "ChthonicTitle": "Artisan of Iron Craft and Guilds",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mitzrael heals mental obsessions, balanced by Vapula’s rigorous dedication to master artisanry.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 61,
+    "ActNumber": 11,
+    "Sign": "Aquarius",
+    "Element": "Air",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 300.0,
+      "EndDegree": 305.0,
+      "SignSpan": "0°–5° Aquarius",
+      "GlobalSpan": "300°–305°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 500.0,
+      "EndSeconds": 508.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:20",
+      "TimecodeEnd": "08:28"
+    },
+    "Angel": {
+      "Name": "Umabel",
+      "Hebrew": "ומב",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 714,
+      "DivineAttribute": "God Above All Things",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Zagan",
+      "GoetiaNumber": 61,
+      "Rank": "King",
+      "Legions": 33,
+      "Metal": "Gold",
+      "FrequencyHz": 120,
+      "ChthonicTitle": "Alchemist of Blood and Wine",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Umabel decodes physics and universal friendship, met by Zagan’s lightning transmutation of crude matter.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 62,
+    "ActNumber": 11,
+    "Sign": "Aquarius",
+    "Element": "Air",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 305.0,
+      "EndDegree": 310.0,
+      "SignSpan": "5°–10° Aquarius",
+      "GlobalSpan": "305°–310°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 508.33,
+      "EndSeconds": 516.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:28",
+      "TimecodeEnd": "08:36"
+    },
+    "Angel": {
+      "Name": "Iah-Hel",
+      "Hebrew": "יהה",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 726,
+      "DivineAttribute": "Supreme Being",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Valac",
+      "GoetiaNumber": 62,
+      "Rank": "President",
+      "Legions": 38,
+      "Metal": "Mercury",
+      "FrequencyHz": 125,
+      "ChthonicTitle": "Child of the Twin-Headed Draconic Void",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Iah-Hel seeks supreme solitude and wisdom, while Valac commands the serpent networks of the cosmos.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 63,
+    "ActNumber": 11,
+    "Sign": "Aquarius",
+    "Element": "Air",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 310.0,
+      "EndDegree": 315.0,
+      "SignSpan": "10°–15° Aquarius",
+      "GlobalSpan": "310°–315°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 516.67,
+      "EndSeconds": 525.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:36",
+      "TimecodeEnd": "08:45"
+    },
+    "Angel": {
+      "Name": "Anauel",
+      "Hebrew": "ענו",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 738,
+      "DivineAttribute": "Infinitely Good God",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Andras",
+      "GoetiaNumber": 63,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 130,
+      "ChthonicTitle": "Sower of Rupture and Dissension",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Anauel protects global commerce and unity, directly countered by Andras’s surgical weapon of division.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 64,
+    "ActNumber": 11,
+    "Sign": "Aquarius",
+    "Element": "Air",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 315.0,
+      "EndDegree": 320.0,
+      "SignSpan": "15°–20° Aquarius",
+      "GlobalSpan": "315°–320°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 525.0,
+      "EndSeconds": 533.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:45",
+      "TimecodeEnd": "08:53"
+    },
+    "Angel": {
+      "Name": "Mehiel",
+      "Hebrew": "מחי",
+      "Choir": "Archangels",
+      "Sphere": "Hod",
+      "FrequencyHz": 750,
+      "DivineAttribute": "God Vivifying All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Flauros",
+      "GoetiaNumber": 64,
+      "Rank": "Duke",
+      "Legions": 36,
+      "Metal": "Copper",
+      "FrequencyHz": 135,
+      "ChthonicTitle": "Leopard of Consuming Static Fire",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mehiel inspires university academics and scholars, held in tension by Flauros’s incinerating truth-fire.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 65,
+    "ActNumber": 11,
+    "Sign": "Aquarius",
+    "Element": "Air",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 320.0,
+      "EndDegree": 325.0,
+      "SignSpan": "20°–25° Aquarius",
+      "GlobalSpan": "320°–325°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 533.33,
+      "EndSeconds": 541.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "08:53",
+      "TimecodeEnd": "09:01"
+    },
+    "Angel": {
+      "Name": "Damabiah",
+      "Hebrew": "דמב",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 762,
+      "DivineAttribute": "God Fountain of Wisdom",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Andrealphus",
+      "GoetiaNumber": 65,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 140,
+      "ChthonicTitle": "Geometer of the Measureless Sky",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Damabiah purifies springs of higher intellect, as Andrealphus calculates hyper-dimensional geometry.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 66,
+    "ActNumber": 11,
+    "Sign": "Aquarius",
+    "Element": "Air",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 325.0,
+      "EndDegree": 330.0,
+      "SignSpan": "25°–30° Aquarius",
+      "GlobalSpan": "325°–330°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 541.67,
+      "EndSeconds": 550.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:01",
+      "TimecodeEnd": "09:10"
+    },
+    "Angel": {
+      "Name": "Manakel",
+      "Hebrew": "מנק",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 774,
+      "DivineAttribute": "God Supporting All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Kimaris",
+      "GoetiaNumber": 66,
+      "Rank": "Marquis",
+      "Legions": 20,
+      "Metal": "Silver",
+      "FrequencyHz": 145,
+      "ChthonicTitle": "Warrior of the African Depths",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Manakel stabilizes nocturnal visions and psychic calm, matched with Kimaris’s indomitable psychic perseverance.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 67,
+    "ActNumber": 12,
+    "Sign": "Pisces",
+    "Element": "Water",
+    "QuinanceIndex": 1,
+    "DegreeSpan": {
+      "StartDegree": 330.0,
+      "EndDegree": 335.0,
+      "SignSpan": "0°–5° Pisces",
+      "GlobalSpan": "330°–335°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 550.0,
+      "EndSeconds": 558.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:10",
+      "TimecodeEnd": "09:18"
+    },
+    "Angel": {
+      "Name": "Eyael",
+      "Hebrew": "איע",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 432,
+      "DivineAttribute": "God Delights of Humanity",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Amdusias",
+      "GoetiaNumber": 67,
+      "Rank": "Duke",
+      "Legions": 29,
+      "Metal": "Copper",
+      "FrequencyHz": 48,
+      "ChthonicTitle": "Maestro of the Invisible Orchestra",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Eyael preserves ancient sacred texts and longevity, as Amdusias commands spectral sonic trees to bend.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 68,
+    "ActNumber": 12,
+    "Sign": "Pisces",
+    "Element": "Water",
+    "QuinanceIndex": 2,
+    "DegreeSpan": {
+      "StartDegree": 335.0,
+      "EndDegree": 340.0,
+      "SignSpan": "5°–10° Pisces",
+      "GlobalSpan": "335°–340°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 558.33,
+      "EndSeconds": 566.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:18",
+      "TimecodeEnd": "09:26"
+    },
+    "Angel": {
+      "Name": "Habuhiah",
+      "Hebrew": "חבו",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 444,
+      "DivineAttribute": "God Giving Freely",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Belial",
+      "GoetiaNumber": 68,
+      "Rank": "King",
+      "Legions": 80,
+      "Metal": "Gold",
+      "FrequencyHz": 52,
+      "ChthonicTitle": "Earthborn Titan of Sovereign Will",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Habuhiah heals agricultural plagues with fertility, confronting Belial’s unyielding defiance of celestial orders.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 69,
+    "ActNumber": 12,
+    "Sign": "Pisces",
+    "Element": "Water",
+    "QuinanceIndex": 3,
+    "DegreeSpan": {
+      "StartDegree": 340.0,
+      "EndDegree": 345.0,
+      "SignSpan": "10°–15° Pisces",
+      "GlobalSpan": "340°–345°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 566.67,
+      "EndSeconds": 575.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:26",
+      "TimecodeEnd": "09:35"
+    },
+    "Angel": {
+      "Name": "Rochel",
+      "Hebrew": "ראה",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 456,
+      "DivineAttribute": "God Seeing All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Decarabia",
+      "GoetiaNumber": 69,
+      "Rank": "Marquis",
+      "Legions": 30,
+      "Metal": "Silver",
+      "FrequencyHz": 56,
+      "ChthonicTitle": "Star of the Pentagrammatic Flora",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Rochel recovers stolen inheritances across time, while Decarabia identifies all astral bird and herbal virtues.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 70,
+    "ActNumber": 12,
+    "Sign": "Pisces",
+    "Element": "Water",
+    "QuinanceIndex": 4,
+    "DegreeSpan": {
+      "StartDegree": 345.0,
+      "EndDegree": 350.0,
+      "SignSpan": "15°–20° Pisces",
+      "GlobalSpan": "345°–350°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 575.0,
+      "EndSeconds": 583.33,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:35",
+      "TimecodeEnd": "09:43"
+    },
+    "Angel": {
+      "Name": "Jabamiah",
+      "Hebrew": "יבמ",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 468,
+      "DivineAttribute": "Word Producing All",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Seere",
+      "GoetiaNumber": 70,
+      "Rank": "Prince",
+      "Legions": 26,
+      "Metal": "Tin",
+      "FrequencyHz": 60,
+      "ChthonicTitle": "Instantaneous Wing of Desire",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Jabamiah oversees the regeneration of decaying souls, while Seere carries matter across light-years in seconds.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 71,
+    "ActNumber": 12,
+    "Sign": "Pisces",
+    "Element": "Water",
+    "QuinanceIndex": 5,
+    "DegreeSpan": {
+      "StartDegree": 350.0,
+      "EndDegree": 355.0,
+      "SignSpan": "20°–25° Pisces",
+      "GlobalSpan": "350°–355°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 583.33,
+      "EndSeconds": 591.67,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:43",
+      "TimecodeEnd": "09:51"
+    },
+    "Angel": {
+      "Name": "Haiaiel",
+      "Hebrew": "היי",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 480,
+      "DivineAttribute": "God Master of the Universe",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Dantalion",
+      "GoetiaNumber": 71,
+      "Rank": "Duke",
+      "Legions": 36,
+      "Metal": "Copper",
+      "FrequencyHz": 64,
+      "ChthonicTitle": "Book of Ten Thousand Faces",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Haiaiel delivers spiritual armor to defeat delusion, while Dantalion reflects infinite masks of human consciousness.",
+    "IsBreachPoint": false
+  },
+  {
+    "GateId": 72,
+    "ActNumber": 12,
+    "Sign": "Pisces",
+    "Element": "Water",
+    "QuinanceIndex": 6,
+    "DegreeSpan": {
+      "StartDegree": 355.0,
+      "EndDegree": 360.0,
+      "SignSpan": "25°–30° Pisces",
+      "GlobalSpan": "355°–360°"
+    },
+    "TemporalCadence": {
+      "StartSeconds": 591.67,
+      "EndSeconds": 600.0,
+      "DurationSeconds": 8.33,
+      "TimecodeStart": "09:51",
+      "TimecodeEnd": "10:00"
+    },
+    "Angel": {
+      "Name": "Mumiah",
+      "Hebrew": "מום",
+      "Choir": "Angels",
+      "Sphere": "Yesod",
+      "FrequencyHz": 492,
+      "DivineAttribute": "End of All Things",
+      "Polarity": "Celestial Light"
+    },
+    "Demon": {
+      "Name": "Andromalius",
+      "GoetiaNumber": 72,
+      "Rank": "Earl",
+      "Legions": 36,
+      "Metal": "Silver",
+      "FrequencyHz": 68,
+      "ChthonicTitle": "Returner of What Was Stolen at the Void",
+      "Polarity": "Chthonic Shadow"
+    },
+    "HarmonicInteraction": "Mumiah completes the cycle, returning souls to divine origin, where Andromalius seals the loop. At 10:00 (600s), the circuit instantly ignites back into Gate 1!",
+    "IsBreachPoint": false
+  }
+]
