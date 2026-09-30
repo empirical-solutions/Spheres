@@ -174,7 +174,7 @@ The backend Express server (`server.ts`) exposes programmatic endpoints for pipe
 * **`GET /api/matrix/python-template`**: Downloads or retrieves the master Python generation script.
 
 ### 2. Generative Veo 3 Endpoints
-* **`POST /api/generate-video`**: Initiates video rendering with `model: veo-3.1-fast-generate-preview`.
+* **`POST /api/generate-video`**: Initiates video rendering with `model: gemini-omni-1.1-flash`.
   ```json
   {
     "prompt": "Cinematic 16:9 master shot, Dark-Gothic Sumerian Futurism...",

@@ -41,7 +41,7 @@ export const VeoVideoStudio: React.FC<VeoVideoStudioProps> = ({
 
   // Reassuring loading step messages during Veo 3 generation
   const loadingSteps = [
-    'Initializing Veo 3 (veo-3.1-fast-generate-preview) neural canvas...',
+    'Initializing Veo 3 (gemini-omni-1.1-flash) neural canvas...',
     `Synthesizing ${activeAct.element} elemental environment: "${activeAct.globalVisualEnvironment}"...`,
     `Weaving polarized harmonics: ${activeGate.angel.name} (celestial light) & ${activeGate.demon.name} (chthonic embers)...`,
     'Calculating 40Hz cymatic wave physics & golden ratio geometry...',
@@ -196,7 +196,7 @@ export const VeoVideoStudio: React.FC<VeoVideoStudioProps> = ({
             <h3 className="text-base md:text-lg font-bold font-sacred text-white flex items-center space-x-2">
               <span>VEO 3 VIDEO STUDIO</span>
               <span className="text-[10px] px-2 py-0.5 rounded-full bg-orange-950 border border-orange-600 text-orange-400 font-blueprint">
-                veo-3.1-fast-generate-preview
+                gemini-omni-1.1-flash
               </span>
             </h3>
             <p className="text-xs text-stone-400 font-blueprint">

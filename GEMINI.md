@@ -67,7 +67,7 @@ Maps all 72 gates programmatically as typed array variables:
 
 ### Layer 3: Multimodal Boundary Code
 - Couples audio frequencies (40Hz sub-bass, 55Hz drone, 108Hz Zen shield, 432Hz sine) with camera trajectory vectors and sacred geometry overlays (Golden Ratio Phi 1.618).
-- For Veo 3 video generation (`veo-3.1-fast-generate-preview`), enforces strict aspect ratio (`16:9` or `9:16`), continuous camera glide, and volumetric chiaroscuro lighting.
+- For Veo 3 video generation (`gemini-omni-1.1-flash`), enforces strict aspect ratio (`16:9` or `9:16`), continuous camera glide, and volumetric chiaroscuro lighting.
 
 ---
 
@@ -97,7 +97,7 @@ Maps all 72 gates programmatically as typed array variables:
 All video generation must utilize the official 3-step operation pattern provided by `@google/genai`:
 
 1. **Step 1: Start Operation**
-   - Model: `veo-3.1-fast-generate-preview`.
+   - Model: `gemini-omni-1.1-flash`.
    - Mandatory Aspect Ratio: `16:9` (landscape) or `9:16` (portrait).
    - Target Resolution: `720p`.
    - Output: `operation.name`.

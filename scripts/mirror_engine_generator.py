@@ -298,7 +298,7 @@ def generate_gate_video(
     print(f"Sending generation request to Veo 3 for Gate {gate_id}...")
 
     operation = client.models.generate_videos(
-        model="veo-3.1-fast-generate-preview",
+        model="gemini-omni-1.1-flash",
         prompt=prompt,
         config=types.GenerateVideosConfig(
             number_of_videos=1,

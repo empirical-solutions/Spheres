@@ -35,9 +35,9 @@ app.post('/api/generate-video', async (req: Request, res: Response) => {
 
     const validRatio = aspectRatio === '9:16' ? '9:16' : '16:9';
 
-    // Model explicitly mandated by user: veo-3.1-fast-generate-preview
+    // Model explicitly mandated by user: gemini-omni-1.1-flash
     const operation = await ai.models.generateVideos({
-      model: 'veo-3.1-fast-generate-preview',
+      model: 'gemini-omni-1.1-flash',
       prompt,
       config: {
         numberOfVideos: 1,
@@ -232,7 +232,7 @@ app.post('/api/matrix/generate-gate48-dolly-video', async (req: Request, res: Re
     const validRatio = aspectRatio === '9:16' ? '9:16' : '16:9';
 
     const operation = await ai.models.generateVideos({
-      model: 'veo-3.1-fast-generate-preview',
+      model: 'gemini-omni-1.1-flash',
       prompt: GATE_48_DOLLY_SPEC.Veo3PromptInject,
       config: {
         numberOfVideos: 1,

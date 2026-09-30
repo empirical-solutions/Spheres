@@ -59,7 +59,7 @@ Never invent angel names, demon names, or arbitrary frequencies. If modifying ga
 
 ## 📹 Veo 3 Implementation Rules
 
-- **Target Model**: `veo-3.1-fast-generate-preview`.
+- **Target Model**: `gemini-omni-1.1-flash`.
 - **Supported Aspect Ratios**: Strictly `'16:9'` or `'9:16'`.
 - **Resolution**: `'720p'`.
 - **Flow Pattern**:
